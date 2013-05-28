@@ -1,0 +1,16 @@
+alias aliases='mate ~/.dotfiles/zsh/aliases'
+alias be='bundle exec'
+alias bi='bundle install'
+alias bu='bundle update'
+alias c='cd'
+alias gad='git add .'
+alias gg='git lg'
+alias hpush='git push heroku'
+alias restart_apache="sudo /etc/init.d/apache2 restart"
+alias rc='rails console'
+alias rs='rails server'
+alias rdm="be rake db:migrate"
+alias rdtp="be rake db:test:prepare"
+alias u='cd ..'
+alias zwtg='cd /Development/zweitag'
+alias gth='cd /Development/github'
